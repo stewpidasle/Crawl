@@ -1,2 +1,7 @@
+# WebCrawler/Scrapper with FastAPI for data collection
+
 pip install crawl4ai
-https://www.youtube.com/watch?v=PUzb-T60jug
+
+crawl4ai-setup
+
+uvicorn main3:app --reload
